@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- БАННЕР: Загрузи свою картинку (например, гифку с Лелушем) на imgur.com или прямо в репозиторий и вставь ссылку сюда вместо YOUR_BANNER_URL -->
-  <img src="https://i.imgur.com/O6cMcb5.gif" alt="Zero Banner" width="100%" style="border-radius: 15px;">
+<img width="1200" height="384" alt="322b222ec7e90292747974ef76ca9691" src="https://github.com/user-attachments/assets/cb9719bd-9136-4103-ae58-70757c0a018c" />
 
   <br>
 
@@ -20,7 +19,6 @@
 *   💜 **Мой арсенал:**
 
 <div align="center">
-  <!-- БЕЙДЖИ: Цвета настроены на разные оттенки фиолетового -->
   <img src="https://img.shields.io/badge/Java-5b21b6?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Minecraft_Forge-8A2BE2?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-5b21b6?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -37,7 +35,7 @@
 
 | Название | Описание проекта | Статус |
 | :--- | :--- | :--- |
-| 🛡️ **[Коммерческий мод (Minecraft) - LucasMod](#)** | Приватный заказ. Стиль и гейплей мода - градостроительство и развитие.* | 🟡 В разработке |
+| 🛡️ **[Коммерческий мод (Minecraft) - LucasMod](#)** | Приватный заказ. Стиль и геймплей мода - градостроительство и развитие.* | 🟡 В разработке |
 | 🩸 **[Horror Mod (Minecraft) - x1.5.9_delta](#)** | Атмосферный Ретро хоррор-мод с пугающим окружением и ощущением беззащитности. | 🟡 В разработке |
 | 🌐 **[SearchGitKiller](#)** | Современный веб-сайт с проработанным UI/UX дизайном и плавной анимацией. | 🔵 Отложен |
 | 📱 **[SearchGitKillerApp](#)** | Приложение-компаньон для сайта, объединяющее функционал в удобном формате. | 🟡 В разработке |
@@ -47,7 +45,7 @@
 ## 📊 Статистика
 
 <div align="center">
-  <!-- КАРТОЧКИ СТАТИСТИКИ: Используется тема tokyonight_purple + кастомный темный фон -->
+  <!-- КАРТОЧКИ СТАТИСТИКИ: Появятся, как только ты создашь хотя бы один публичный репозиторий-витрину -->
   <img src="https://github-readme-stats.vercel.app/api?username=gdacoff&show_icons=true&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdacoff&layout=compact&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="Top Langs" />
