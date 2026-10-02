@@ -29,6 +29,8 @@
   
   <!-- Игровой движок / Моддинг -->
   <img src="https://img.shields.io/badge/Minecraft_Forge-5b21b6?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Minecraft_NeoForge-5b21b6?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Minecraft_Fabric-5b21b6?style=for-the-badge&logo=minecraft&logoColor=white" />
   
   <br>
 
