@@ -1,3 +1,4 @@
+<img width="498" height="277" alt="lelouch-lelouch-vi-britannia" src="https://github.com/user-attachments/assets/4e77a107-06df-428a-98e6-0fb2c08aca06" />
 <div align="center">
   <!-- ВСТАВЬ ССЫЛКУ НА СВОЙ БАННЕР С ГЛАЗАМИ ЛЕЛУША ВОТ СЮДА (в src="") -->
   <img width="1200" height="384" alt="banner" src="https://github.com/user-attachments/assets/4683a9a6-10af-441d-94b2-a0ea4a413a35" />
@@ -58,7 +59,7 @@
 <div align="center">
   <br>
   <!-- Твоя гифка с Гиассом (замени на свою, если нужно) -->
-  <img src="https://i.gifer.com/1OVK.gif" width="600" alt="Geass" />
+  <img width="498" height="277" alt="lelouch-lelouch-vi-britannia" src="https://github.com/user-attachments/assets/7ed636fa-6826-4bfb-b020-f5ef52e43456" />
   <br>
   <i>«Единственные, кто должен убивать, — это те, кто готов быть убитым.»</i>
 </div>
