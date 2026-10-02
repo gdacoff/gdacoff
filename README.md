@@ -1,6 +1,6 @@
 <div align="center">
   <!-- ВСТАВЬ ССЫЛКУ НА СВОЙ БАННЕР С ГЛАЗАМИ ЛЕЛУША ВОТ СЮДА (в src="") -->
-  <img src="ТУТ_ДОЛЖНА_БЫТЬ_ССЫЛКА_НА_ТВОЮ_КАРТИНКУ" alt="Lelouch Banner" />
+  <img width="1200" height="384" alt="322b222ec7e90292747974ef76ca9691" src="https://github.com/user-attachments/assets/4683a9a6-10af-441d-94b2-a0ea4a413a35" />
 
   <br><br>
 
