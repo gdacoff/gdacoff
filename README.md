@@ -56,8 +56,6 @@
 
 ---
 
-## 🩸 Сила Короля
-
 <div align="center">
 <img width="498" height="277" alt="lelouch-lelouch-vi-britannia" src="https://github.com/user-attachments/assets/5edaae47-a1a3-4aec-bb8d-4ed1b536e1cd" />
   <br>
