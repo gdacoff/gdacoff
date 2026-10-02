@@ -75,14 +75,3 @@
     <img src="https://img.shields.io/badge/TikTok-5b21b6?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
-
----
-
-## 📊 Статистика
-
-<div align="center">
-  <!-- КАРТОЧКИ СТАТИСТИКИ (Заработают, как только репозитории станут публичными) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gdacoff&show_icons=true&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdacoff&layout=compact&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
