@@ -1,4 +1,5 @@
 <div align="center">
+  <!-- ВСТАВЬ ССЫЛКУ НА СВОЙ БАННЕР С ГЛАЗАМИ ЛЕЛУША ВОТ СЮДА (в src="") -->
   <img width="1200" height="384" alt="banner" src="https://github.com/user-attachments/assets/4683a9a6-10af-441d-94b2-a0ea4a413a35" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=All+hail+Lelouch!;Java+Developer+%26+Mod+Creator;Turning+ideas+into+reality" alt="Typing SVG" />
@@ -49,22 +50,22 @@
 
 | Название | Описание проекта | Статус |
 | :--- | :--- | :--- |
-| 🛡️ **[Коммерческий мод (Minecraft) - LucasMod](#)** | Приватный заказ. Стиль и геймплей мода - градостроительство и развитие.* | 🟡 В разработке |
-| 🩸 **[Horror Mod (Minecraft) - x1.5.9_delta](#)** | Атмосферный Ретро хоррор-мод с пугающим окружением и ощущением беззащитности. | 🟡 В разработке |
-| 🌐 **[SearchGitKiller](#)** | Сайт для поиска проектов GitHub по примерному описанию, без точного названия | 🔵 Отложен |
-| 📱 **[SearchGitKillerApp](#)** | Приложение-поисковик для проектов GitHub по примерному описанию, без точного названия | 🟡 В разработке |
-
----
+| 🛡️ **[Коммерческий мод (Minecraft) - LucasMod](https://github.com/gdacoff/LucasMod)** | Приватный заказ. Стиль и геймплей мода - градостроительство и развитие.* | 🟡 В разработке |
+| 🩸 **[Horror Mod (Minecraft) - x1.5.9_delta](https://github.com/gdacoff/x1.5.9_delta)** | Атмосферный Ретро хоррор-мод с пугающим окружением и ощущением беззащитности. | 🟡 В разработке |
+| 🌐 **[SearchGitKiller](https://github.com/gdacoff/SearchGitKiller)** | Сайт для поиска проектов GitHub по примерному описанию, без точного названия | 🔵 Отложен |
+| 💻 **[SearchGitKillerApp](https://github.com/gdacoff/SearchGitKillerApp)** | Десктопное приложение-поисковик для проектов GitHub по примерному описанию | 🟡 В разработке |
 
 <div align="center">
-<img width="498" height="277" alt="lelouch-lelouch-vi-britannia" src="https://github.com/user-attachments/assets/5edaae47-a1a3-4aec-bb8d-4ed1b536e1cd" />
+  <br>
+  <!-- Твоя гифка с Гиассом (замени на свою, если нужно) -->
+  <img src="https://i.gifer.com/1OVK.gif" width="600" alt="Geass" />
   <br>
   <i>«Единственные, кто должен убивать, — это те, кто готов быть убитым.»</i>
 </div>
 
 ---
 
-## 📬 Связь со мной
+## 🏳️ Связь со мной
 
 <div align="center">
   <a href="https://discord.com/users/846024512611942401">
@@ -80,7 +81,7 @@
 ## 📊 Статистика
 
 <div align="center">
-  <!-- КАРТОЧКИ СТАТИСТИКИ -->
+  <!-- КАРТОЧКИ СТАТИСТИКИ (Заработают, как только репозитории станут публичными) -->
   <img src="https://github-readme-stats.vercel.app/api?username=gdacoff&show_icons=true&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdacoff&layout=compact&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="Top Langs" />
