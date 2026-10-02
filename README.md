@@ -1,13 +1,7 @@
 <div align="center">
-  <!-- ВСТАВЬ ССЫЛКУ НА СВОЙ БАННЕР С ГЛАЗАМИ ЛЕЛУША ВОТ СЮДА (в src="") -->
   <img width="1200" height="384" alt="322b222ec7e90292747974ef76ca9691" src="https://github.com/user-attachments/assets/4683a9a6-10af-441d-94b2-a0ea4a413a35" />
 
-  <br><br>
-
-  <!-- АНИМИРОВАННЫЙ ТЕКСТ -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=All+hail+Lelouch!;Java+Developer+%26+Mod+Creator;Turning+ideas+into+reality" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=All+hail+Lelouch!;Java+Developer+%26+Mod+Creator;Turning+ideas+into+reality" alt="Typing SVG" />
 </div>
 
 ---
