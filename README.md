@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="384" alt="322b222ec7e90292747974ef76ca9691" src="https://github.com/user-attachments/assets/4683a9a6-10af-441d-94b2-a0ea4a413a35" />
+  <img width="1200" height="384" alt="banner" src="https://github.com/user-attachments/assets/4683a9a6-10af-441d-94b2-a0ea4a413a35" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=All+hail+Lelouch!;Java+Developer+%26+Mod+Creator;Turning+ideas+into+reality" alt="Typing SVG" />
 </div>
@@ -23,8 +23,8 @@
   
   <!-- Игровой движок / Моддинг -->
   <img src="https://img.shields.io/badge/Minecraft_Forge-5b21b6?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Minecraft_NeoForge-5b21b6?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Minecraft_Fabric-5b21b6?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft_NeoForge-8A2BE2?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft_Fabric-5b21b6?style=for-the-badge&logo=minecraft&logoColor=white" />
   
   <br>
 
@@ -38,6 +38,7 @@
   <!-- Инструменты -->
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-5b21b6?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-5b21b6?style=for-the-badge&logo=gradle&logoColor=white" />
 </div>
 
 <br>
@@ -55,10 +56,24 @@
 
 ---
 
+## 📬 Связь со мной
+
+<div align="center">
+  <!-- Замени # на свои реальные ссылки -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/TikTok-5b21b6?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</div>
+
+---
+
 ## 📊 Статистика
 
 <div align="center">
-  <!-- КАРТОЧКИ СТАТИСТИКИ: Появятся, как только ты создашь хотя бы один публичный репозиторий-витрину -->
+  <!-- КАРТОЧКИ СТАТИСТИКИ -->
   <img src="https://github-readme-stats.vercel.app/api?username=gdacoff&show_icons=true&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdacoff&layout=compact&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="Top Langs" />
