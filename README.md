@@ -7,11 +7,11 @@
 
 ---
 
-## 👁️ Обо мне
+## 👁️ About me
 
-Привет! Я **KillerZero (Так же известен, как gdacoff)** — разработчик, который любит создавать необычные и оригинальные проекты. Люблю делать полезные инструменты для пользователей и моды на игры!
+Hi! I'm **KillerZero (also known as gdacoff)** – a developer who loves creating unusual and original projects. I love making useful tools for users and game mods!
 
-*   💜 **Мой арсенал:**
+*   💜 **My arsenal:**
 
 <div align="center">
   <!-- Языки программирования -->
@@ -44,28 +44,28 @@
 
 <br>
 
-## 👑 Мои проекты (Портфолио)
+## 👑 My projects (Portfolio)
 
-Здесь собраны мои главные работы. Список будет пополняться!
+Here are my main works. The list will be updated!
 
-| Название | Описание проекта | Статус |
+| Name | Project Description | Status |
 | :--- | :--- | :--- |
-| 🛡️ **[Коммерческий мод (Minecraft) - LucasMod](https://github.com/gdacoff/LucasMod)** | Приватный заказ. Стиль и геймплей мода - градостроительство и развитие.* | 🟡 В разработке |
-| 🩸 **[Horror Mod (Minecraft) - x1.5.9_delta](https://github.com/gdacoff/x1.5.9_delta)** | Атмосферный Ретро хоррор-мод с пугающим окружением и ощущением беззащитности. | 🟡 В разработке |
-| 🌐 **[SearchGitKiller](https://github.com/gdacoff/SearchGitKiller)** | Сайт для поиска проектов GitHub по примерному описанию, без точного названия | 🔵 Отложен |
-| 💻 **[SearchGitKillerApp](https://github.com/gdacoff/SearchGitKillerApp)** | Десктопное приложение-поисковик для проектов GitHub по примерному описанию | 🟡 В разработке |
+| 🛡️ **[Commercial mod (Minecraft) - LucasMod](https://github.com/gdacoff/LucasMod)** | Private order. The style and gameplay of the mod are urban development and development.* | 🟡 In development |
+| 🩸 **[Horror Mod (Minecraft) - x1.5.9_delta](https://github.com/gdacoff/x1.5.9_delta)** | An atmospheric retro horror mod with a frightening environment and a sense of vulnerability. | 🟡 In development |
+| 🌐 **[SearchGitKiller](https://github.com/gdacoff/SearchGitKiller)** | A site for searching GitHub projects by a rough description, without the exact name. | 🔵 Postponed |
+| 💻 **[SearchGitKillerApp](https://github.com/gdacoff/SearchGitKillerApp)** | A desktop search app for GitHub projects based on a rough description | 🟡 In developmen |
 
 <div align="center">
   <br>
   <!-- Твоя гифка с Гиассом (замени на свою, если нужно) -->
   <img width="498" height="277" alt="lelouch-lelouch-vi-britannia" src="https://github.com/user-attachments/assets/7ed636fa-6826-4bfb-b020-f5ef52e43456" />
   <br>
-  <i>«Единственные, кто должен убивать, — это те, кто готов быть убитым.»</i>
+  <i>«The only ones who should kill, are those who are prepared to be killed.»</i>
 </div>
 
 ---
 
-## 🏳️ Связь со мной
+## 🏳️ Contact me
 
 <div align="center">
   <a href="https://discord.com/users/846024512611942401">
