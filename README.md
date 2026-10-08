@@ -52,6 +52,7 @@ Here are my main works. The list will be updated!
 | :--- | :--- | :--- |
 | 🛡️ **[Commercial mod (Minecraft) - LucasMod](https://github.com/gdacoff/LucasMod)** | Private order. The style and gameplay of the mod are urban development and development.* | 🟡 In development |
 | 🩸 **[Horror Mod (Minecraft) - x1.5.9_delta](https://github.com/gdacoff/x1.5.9_delta)** | An atmospheric retro horror mod with a frightening environment and a sense of vulnerability. | 🟡 In development |
+| 💀 **[Horror Mod (Minecraft) - alpha_deprecated](https://github.com/gdacoff/Alpha_Deprecated)** | The Broken Alpha — a conceptual horror mod based on leaked 2009 core mechanics. | 🟠 Completed (source code lost) |
 | 🌐 **[SearchGitKiller](https://github.com/gdacoff/SearchGitKiller)** | A site for searching GitHub projects by a rough description, without the exact name. | 🔵 Postponed |
 | 💻 **[SearchGitKillerApp](https://github.com/gdacoff/SearchGitKillerApp)** | A desktop search app for GitHub projects based on a rough description | 🟡 In developmen |
 
