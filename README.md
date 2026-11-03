@@ -55,6 +55,7 @@ Here are my main works. The list will be updated!
 | 💀 **[Horror Mod (Minecraft) - alpha_deprecated](https://github.com/gdacoff/Alpha_Deprecated)** | A conceptual horror mod based on leaked 2009 core mechanics. | 🟠 Completed (source code lost) |
 | 🌐 **[SearchGitKiller](https://github.com/gdacoff/SearchGitKiller)** | A site for searching GitHub projects by a rough description, without the exact name. | 🔵 Postponed |
 | 💻 **[SearchGitKillerApp](https://github.com/gdacoff/SearchGitKillerApp)** | A desktop search app for GitHub projects based on a rough description | 🟡 In developmen |
+| ⚙️ **[KilllTheFrizz (Minecraft)](https://github.com/gdacoff/KilllTheFrizz)** | A server-side performance optimization mod for Minecraft 1.21.1, focused on reducing entity-related server load through intelligent entity sleeping, villager AI throttling, and collision optimization. | 🟢 Completed (Beta Version) |
 
 <div align="center">
   <br>
