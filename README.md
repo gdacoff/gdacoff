@@ -44,9 +44,9 @@ Hi! I'm **KillerZero (also known as gdacoff)** – a developer who loves creatin
 
 <br>
 
-## ♛ Developer Portfolio
+---
 
-<br>
+## ♛ Developer Portfolio
 
 **Explore my projects, development identity and technology stack.**
 
@@ -54,7 +54,7 @@ Hi! I'm **KillerZero (also known as gdacoff)** – a developer who loves creatin
 
 A personal developer portfolio featuring my projects, tools, technologies and development platforms.
 
-<br>
+---
 
 ## 👑 My projects (Portfolio)
 
