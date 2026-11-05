@@ -73,7 +73,7 @@ Here are my main works. The list will be updated!
   <a href="https://discord.com/users/846024512611942401">
     <img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.tiktok.com/@killerzero_11">
+  <a href="https://www.tiktok.com/@gdacoff">
     <img src="https://img.shields.io/badge/TikTok-5b21b6?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
