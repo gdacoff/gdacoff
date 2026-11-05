@@ -44,6 +44,15 @@ Hi! I'm **KillerZero (also known as gdacoff)** – a developer who loves creatin
 
 <br>
 
+## ♛ Developer Portfolio
+
+**Explore my projects, development identity and technology stack.**
+
+🌐 **[Open Portfolio — gdacoff.github.io](https://gdacoff.github.io/)**
+
+A personal developer portfolio featuring my projects, tools, technologies and development platforms.
+
+
 ## 👑 My projects (Portfolio)
 
 Here are my main works. The list will be updated!
