@@ -66,8 +66,8 @@ Here are my main works. The list will be updated!
 | 🩸 **[Horror Mod (Minecraft) - x1.5.9_delta](https://github.com/gdacoff/x1.5.9_delta)** | An atmospheric retro horror mod with a frightening environment and a sense of vulnerability. | 🟡 In development |
 | 💀 **[Horror Mod (Minecraft) - alpha_deprecated](https://github.com/gdacoff/Alpha_Deprecated)** | A conceptual horror mod based on leaked 2009 core mechanics. | 🟡 In development |
 | ⚙️ **[Tech mod (Minecraft) - KilllTheFrizz](https://github.com/gdacoff/KilllTheFrizz)** | A server-side performance optimization mod for Minecraft 1.21.1, focused on reducing entity-related server load through intelligent entity sleeping, villager AI throttling, and collision optimization. | 🟢 Completed (Beta Version) |
-| 🌐 **[SearchGitKiller](https://github.com/gdacoff/SearchGitKiller)** | A site for searching GitHub projects by a rough description, without the exact name. | 🔵 Postponed |
-| 💻 **[SearchGitKillerApp](https://github.com/gdacoff/SearchGitKillerApp)** | A desktop search app for GitHub projects based on a rough description | 🟡 In developmen |
+| 🌐 **[SearchGitKiller](https://github.com/gdacoff/SearchGitKiller)** | A site for searching GitHub projects by a rough description, without the exact name. | 🟢 Completed (Beta Version) |
+| 💻 **[SearchGitKillerApp](https://github.com/gdacoff/SearchGitKillerApp)** | A desktop search app for GitHub projects based on a rough description | 🟢 Completed (Beta Version) |
 
 <div align="center">
   <br>
